@@ -1,2 +1,5 @@
 Git session
 Day 1
+
+Demo
+Stash demo
